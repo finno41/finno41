@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Globe Jotters](http://www.globejotters.co.uk/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/finno41](https://github.com/finno41)
-
 - 📫 How to reach me **oliver.james.finn@gmail.com**
 
 <br><br>
